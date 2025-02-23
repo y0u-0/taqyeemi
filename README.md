@@ -14,7 +14,7 @@ Taqyeemi is a student-centric app developed using Flutter and Firebase, designed
 - **TaqyeemiGPT Integration**: One of the unique features of Taqyeemi is the integration of TaqyeemiGPT, an AI-powered virtual assistant that can answer any questions related to instructors and courses. Users can seek instant guidance and information using this powerful feature.
 
 
-### Restaurant Interface
+### App Interfaces
 
 <div style="display: flex;">
   <img src="./assets/images/s1.png" height="400">
